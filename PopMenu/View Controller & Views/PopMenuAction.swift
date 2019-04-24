@@ -59,6 +59,7 @@ import UIKit
 }
 
 /// The default PopMenu action class.
+@objcMembers
 public class PopMenuDefaultAction: NSObject, PopMenuAction {
     
     /// Title of action.

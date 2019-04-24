@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Example_oc/Example_oc.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "container:PopMenu.xcodeproj">
    </FileRef>
    <FileRef

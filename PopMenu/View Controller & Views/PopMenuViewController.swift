@@ -13,7 +13,7 @@ import UIKit
     /// Called when an action is selected.
     @objc optional func popMenuDidSelectItem(_ popMenuViewController: PopMenuViewController, at index: Int)
 }
-
+@objcMembers
 final public class PopMenuViewController: UIViewController {
     
     // MARK: - Properties

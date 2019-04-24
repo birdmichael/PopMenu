@@ -16,6 +16,7 @@ public typealias Color = UIColor
 
 /// Appearance for PopMenu.
 /// Use for configuring custom styles and looks.
+@objcMembers
 final public class PopMenuAppearance: NSObject {
     
     /// Background and tint colors.
@@ -54,6 +55,7 @@ final public class PopMenuAppearance: NSObject {
 }
 
 /// Background styles for PopMenu.
+
 public struct PopMenuBackgroundStyle {
     
     // MARK: - Dimmed Style
@@ -95,6 +97,7 @@ public struct PopMenuBackgroundStyle {
 }
 
 /// Color structure for PopMenu color styles.
+
 public struct PopMenuColor {
     
     /// Background color instance.

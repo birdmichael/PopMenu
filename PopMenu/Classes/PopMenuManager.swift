@@ -9,6 +9,7 @@
 import UIKit
 
 /// The object responsible for managing a pop menu `PopMenuViewController`
+@objcMembers
 final public class PopMenuManager: NSObject {
     
     // MARK: - Properties

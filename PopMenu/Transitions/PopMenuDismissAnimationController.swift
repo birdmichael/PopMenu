@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+@objcMembers
 final public class PopMenuDismissAnimationController: NSObject, UIViewControllerAnimatedTransitioning {
 
     /// The source view's frame.
